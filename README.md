@@ -3,12 +3,6 @@
 # Assignment Goal
 * Practice programming in Python3 by completing eight small programming exercises.
 
-## Preamble
-1. Fork this repository using the button at the top of the project page.
-2. Make sure that the visibility of your project is private. (Settings > expand Permissions > Project visibility: Private; Save changes).  *Note: Class teachers and tutors will still have read access to your project for marking purposes.*
-3. Clone the new repository to your computer using Git.  Store the repository in your COMPX575 directory.
-4. Remember to commit and push regularly as you work on the project! 
-
 ### Exercise One
 Generate a list of 100 random integers between 1 and 50 and count the occurrences of each integer. For example, 1 occurs 3 times, 2 occurs 5 times, etc.
 ### Exercise Two
