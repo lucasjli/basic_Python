@@ -58,9 +58,3 @@ Given a sentence (below), write a program that uses *map, reduce and filter* to:
 ```
 Alice's Adventures in Wonderland (commonly shortened to Alice in Wonderland) is an 1865 novel written by English author Charles Lutwidge Dodgson under the pseudonym Lewis Carroll.
 ```
-Hint: use *split()* to split a string into a list.
-## Grading
-This task is worth as much as 5% of your final grade and is marked out of 8 (1 mark per exercise).
-
-## Submission
-Submit your Python code to your Git repository as well as to Moodle.
