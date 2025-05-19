@@ -1,5 +1,4 @@
-# COMPX575- Task Two
-Due on **Friday the 7th of March at midday**.
+# Basic Python
 
 # Assignment Goal
 * Practice programming in Python3 by completing eight small programming exercises.
